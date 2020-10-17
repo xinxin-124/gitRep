@@ -1,0 +1,6 @@
+com\wxx\service\IPersonService.class
+com\wxx\service\impl\PersonServiceImpl.class
+com\wxx\dao\impl\PersonDaoImpl.class
+com\wxx\controller\PersonController.class
+com\wxx\domain\Person.class
+com\wxx\dao\IPersonDao.class
