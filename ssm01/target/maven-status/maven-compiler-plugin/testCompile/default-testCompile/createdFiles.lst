@@ -1,3 +1,2 @@
 com\wxx\service\TestPersonService.class
-com\wxx\service\TestDateSource.class
-com\wxx\service\TestMyBatis.class
+com\wxx\service\TestDepartment.class

@@ -1,6 +1,11 @@
+com\wxx\controller\PersonController.class
+com\wxx\service\impl\DepartmentServiceImpl.class
+com\wxx\domain\Person.class
 com\wxx\service\IPersonService.class
+com\wxx\controller\DepartmentController.class
 com\wxx\service\impl\PersonServiceImpl.class
 com\wxx\dao\impl\PersonDaoImpl.class
-com\wxx\controller\PersonController.class
-com\wxx\domain\Person.class
+com\wxx\service\IDepartmentService.class
+com\wxx\dao\IDepartmentDao.class
 com\wxx\dao\IPersonDao.class
+com\wxx\domain\Department.class

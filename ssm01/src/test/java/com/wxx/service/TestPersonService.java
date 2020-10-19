@@ -19,17 +19,8 @@ public class TestPersonService {
     @Autowired
     IPersonService personService;
     @Test
-    public void test01(){//编写两个业务功能，查询所有person，保存person
-        //创建业务对象
-        //IPersonService personService = new PersonServiceImpl();
-        log.info(personService+"");
-        //调用查询
-        List<Person> list = personService.findAll();
-        log.info(list+"");
-        Person person = new Person("sun",150.00);
-        personService.save(person);
-        List<Person> list1 = personService.findAll();
-        log.info(list1+"");
+    public void test01(){//
+
     }
     @Test
     public void test02(){//DI
